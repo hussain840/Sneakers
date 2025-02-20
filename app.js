@@ -15,7 +15,7 @@ const products = [
         price: 199,
         colors: [
             {
-                img: "assets/images/airforce.png",
+                img: "airforce.png",
             },
         ],
     },
@@ -25,7 +25,7 @@ const products = [
         price: 190,
         colors: [
             {
-                img: "assets/images/jordan.png",
+                img: "jordan.png",
             },
         ],
     },
@@ -35,7 +35,7 @@ const products = [
         price: 150,
         colors: [
             {
-                img: "assets/images/CAT.png",
+                img: "CAT.png",
             },
         ],
     },
@@ -45,7 +45,7 @@ const products = [
         price: 180,
         colors: [
             {
-                img: "assets/images/hippie.png",
+                img: "hippie.png",
             },
         ],
     },
@@ -55,7 +55,7 @@ const products = [
         price: 129,
         colors: [
             {
-                img: "assets/images/BLAZZER.png",
+                img: "BLAZZER.png",
             },
         ],
     },
